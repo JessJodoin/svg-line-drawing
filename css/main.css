@@ -1,0 +1,10 @@
+html {
+  font-family: "Unica One", sans-serif;
+}
+
+.narwhal-text {
+  left: 5%;
+  top: 20%;
+  z-index: 1000;
+  color: #fff;
+}
