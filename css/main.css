@@ -3,7 +3,7 @@ html {
 }
 
 .narwhal-text {
-  left: 5%;
+  left: .82em;
   top: 20%;
   z-index: 1000;
   color: #fff;
